@@ -6,3 +6,4 @@ Recipe List:
 - Toor Daal
 - Mung Daal
 - Potato & Onion Shaak
+- Tofu Ramen
